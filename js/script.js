@@ -267,7 +267,7 @@ function initCopyPromptButtons() {
 function verifyMetaPixelCompliance() {
   // Confirm that only PageView was triggered
   if (window.fbq) {
-    console.log('[SkillVerse Compliance] Meta Pixel initialized with ID 1607708017329407.');
+    console.log('[SkillVerse Compliance] Meta Pixel initialized with ID 1168805412328982.');
     console.log('[SkillVerse Compliance] Tracking restricted strictly to PageView. No Purchase or Checkout events on landing page.');
   }
 }

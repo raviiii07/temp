@@ -56,7 +56,7 @@ All primary purchase buttons and CTAs throughout the page are linked to your off
 
 ## 📊 Meta Pixel Setup & Compliance Confirmation
 
-- **Pixel ID:** `1607708017329407`
+- **Pixel ID:** `1168805412328982`
 - **Location:** Inside the `<head>` of `index.html` (Lines 40–58).
 - **Compliance Confirmation:**
   - **ONLY `PageView` is tracked:** `fbq('track', 'PageView');`
